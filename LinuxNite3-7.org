@@ -1,0 +1,52 @@
+cloudflare dynamic dns
+
+
+diff -u <(something) < (something else)  -- diff the output of 2 different commands.
+
+squid -
+
+socks proxy established
+
+LXC >
+
+LXD -- allows live migration of LXC.
+
+OpenVZ -- older container engine (has live migration)
+
+Jboss deployment.
+
+promotion cycle
+
+UAT
+
+docker problems -- yet another point that needs to get updates -- inside the container and docker itself.
+
+github profile : logos01 -- check for CIS compliance checklist.                                                                  
+
+
+)
+Pulp (setup a local repo on centos) 
+
+apt-mirror scans debian repos (like sources.list)
+
+|   |   |   |   |   |
+|---+---+---+---+---|
+|   |   |   |   |   |
+ 
+
+Centos talk:
+spacewalk & catello
+
+cobbler 
+reposync
+
+KFreeBSD -- 
+
+dnsmasq -- for DNS caching
+
+2 considerations for squid: 
+
+squid cache expiring -- run into filename conflicts 
+
+reposync can be run unattended
+
